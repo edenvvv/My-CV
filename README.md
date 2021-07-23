@@ -1,4 +1,4 @@
-# <a href="https://edenvvv.github.io/My-CV/">My CV</a>
+# <a href="https://edenvvv.github.io/My-CV/">My CV</a> using Three.js
 
 ## Setup
 
